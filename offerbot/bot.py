@@ -4,8 +4,8 @@ import pandas as pd
 import threading
 import os
 
-TOKEN = '7186719852:AAGHfrGW2YahSmd2DSh6c5kPGH23OKCGhwA'
-CHANNEL_ID = '-4223828233'
+TOKEN = ''
+CHANNEL_ID = ''
 CHANNEL_URL = 'YOUR_CHANNEL_URL'
 
 async def start(update: Update, context: CallbackContext):
