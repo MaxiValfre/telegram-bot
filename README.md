@@ -18,7 +18,7 @@ OfferBot es un bot de Telegram que permite enviar publicaciones con ofertas a un
 
 1. Clona este repositorio:
     ```sh
-    git clone https://github.com/MaxiValfre/offerbot.git
+    git clone https://github.com/MaxiValfre/telegram-bot.git
     cd offerbot
     ```
 
