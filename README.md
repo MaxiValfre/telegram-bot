@@ -65,9 +65,6 @@ OfferBot es un bot de Telegram que permite enviar publicaciones con ofertas a un
 | Producto1 | $10            | $20          | http://linkproducto1 | http://imagenproducto1 |
 | Producto2 | $15            | $25          | http://linkproducto2 | http://imagenproducto2 |
 
-## Contribuciones
-
-Las contribuciones son bienvenidas. Por favor, abre un issue o envía un pull request para contribuir al proyecto.
 
 ## Licencia
 
