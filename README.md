@@ -75,5 +75,5 @@ Este proyecto está bajo la Licencia MIT. Consulta el archivo [LICENSE](LICENSE)
 
 ## Contacto
 
-Para cualquier pregunta o consulta, puedes contactar a través de [tu correo electrónico](mailto:maximovalfre170@gmail.com).
+Para cualquier pregunta o consulta, puedes contactar a través de mail: maximovalfre170@gmail.com
 
